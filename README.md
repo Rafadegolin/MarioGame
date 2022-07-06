@@ -6,7 +6,7 @@
 >
 > Este repositório representa a primeira versão dessa interface.
 
-# Alguma screenshots do game
+# Algumas screenshots do game
 <img src="https://github.com/Rafadegolin/MarioGame/blob/main/screenshots/game_screen.png?raw=true">
 <img src="https://github.com/Rafadegolin/MarioGame/blob/main/screenshots/game_screenJump.png?raw=true">
 
