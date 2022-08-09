@@ -19,5 +19,5 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/MarioGame/release
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
 
-##Clique aqui para jogar:
+## Clique aqui para jogar:
 https://rafadegolin.github.io/MarioGame/
