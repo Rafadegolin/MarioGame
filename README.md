@@ -2,7 +2,7 @@
 
 > Projeto de um jogo feito em HTML, CSS e JavaScript. Jogo inspirado no famoso game do dinossauro do google (quando não há internet).
 >
-> Se o Mario encostar no tubo verde você morree o jogo acaba, basta apertar qualquer tecla do seu teclado para o Mario pular o tubo no momento certo.
+> Se o Mario encostar no tubo verde você morre e o jogo acaba, basta apertar qualquer tecla do seu teclado para o Mario pular o tubo no momento certo.
 >
 > Este repositório representa a primeira versão dessa interface.
 
